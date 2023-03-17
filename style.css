@@ -131,13 +131,12 @@ button:hover{
 }
 
 main {
-    padding: 30px 12px 25px;
-    margin: 12px;
-    width: 400px;
+
+    width: 100%;
 }
 
 main header {
-    font-size: 33px;
+    font-size: 20px;
 }
 
 }
